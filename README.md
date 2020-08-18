@@ -119,6 +119,6 @@ export default connect(
   ```
 
 
-[Getting Started](assets/link.md "Let's get started!")
+[Getting Started](assets/gettingStarted.md "Let's get started!")
 
 
