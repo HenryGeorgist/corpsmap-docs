@@ -9,7 +9,8 @@ The foundational gis capabilities are provided through openlayers for visualizat
 ### development stack
 @corpsmap utilizes the react-redux stack for state management and dispatches - it leverages react-redux-bundler to reduce the boiler-plate with rapidly developing components for the framework.
 
-[Plugin Architecture](assets/pluginArchitecture.md "Learn about creating a plugin!")
+### Plugin Architecture
+In order to improve flexibility of incorporating the variety of needs in a sustainable way @corpsmap leverages a plugin architecture - learn more about that here [Plugin Architecture](assets/pluginArchitecture.md "Learn about creating a plugin!")
 
 ## Index
 
