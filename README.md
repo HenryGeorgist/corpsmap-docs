@@ -1,5 +1,5 @@
 # corpsmap-docs
-A place to store Documents to support leveraging corpsmap
+This site seeks to provide some general context and help for leveraging the @corpsmap packages to develop enterprise level (and beautiful) web based maps!
 
 ## About @corpsmap
 @corpsmap is a project developed by Will B. to facilitate an enterprise ecosystem of geospatial applications that are loosely coupled but maintain a common set of frequently used tools. 
