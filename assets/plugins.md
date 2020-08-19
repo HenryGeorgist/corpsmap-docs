@@ -10,4 +10,4 @@ There are many plugins that come with the @corpsmap bundle, each one is independ
 - [measureTools](measureTools.html "Isn't this place a geographical anomoly, it is two weeks from everwhere!")
 - [rotateNorth](rotateNorth.html "No, North should be up")
 - [zoomInOut](zoomInOut.html "Cause some people like fixed zoom out")
-- [zoomToBox](zoomToBox "I wanna zoom right there and I dont know how to use mousewheel scroll")
+- [zoomToBox](zoomToBox.html "I wanna zoom right there and I dont know how to use mousewheel scroll")
