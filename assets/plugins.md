@@ -11,3 +11,4 @@ There are many plugins that come with the @corpsmap bundle, each one is independ
 - [rotateNorth](plugins/rotateNorth.html "No, North should be up")
 - [zoomInOut](plugins/zoomInOut.html "Cause some people like fixed zoom out")
 - [zoomToBox](plugins/zoomToBox.html "I wanna zoom right there and I dont know how to use mousewheel scroll")
+- [Tree View](plugins/treeView.html "A place for layers to feel like they belong")
