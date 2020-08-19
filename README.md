@@ -16,5 +16,6 @@ In order to improve flexibility of incorporating the variety of needs in a susta
 
 
 [Getting Started](assets/gettingStarted.html "Let's get started!")
+[Core-Plugins](assets/plugins.html "It is like an extension cord at Clark Griswold's house")
 
 
