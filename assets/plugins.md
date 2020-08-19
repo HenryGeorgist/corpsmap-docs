@@ -11,4 +11,7 @@ There are many plugins that come with the @corpsmap bundle, each one is independ
 - [rotateNorth](plugins/rotateNorth.html "No, North should be up")
 - [zoomInOut](plugins/zoomInOut.html "Cause some people like fixed zoom out")
 - [zoomToBox](plugins/zoomToBox.html "I wanna zoom right there and I dont know how to use mousewheel scroll")
+- [zoomHome](plugins/zoomHome.hmtl "Go to your home!!! Are you too good for your home?!?")
 - [treeView](plugins/treeView.html "A place for layers to feel like they belong")
+- [themeSwitcher](plugins/themeSwitcher.html "Because everyone deserves a choice right?")
+- [printMap](plugins/printMap.html "Do people still have printers?")
