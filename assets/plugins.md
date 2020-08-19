@@ -4,6 +4,7 @@ There are many plugins that come with the @corpsmap bundle, each one is independ
 
 Plugins are added by default in the tool bar trays identified in the image above.
 
+The following list provide links to pages about each individual plugin.
 
 - [addData](plugins/addData.html "Add Data Plugin description")
 - [basemapSwitcher](plugins/basemapSwitcher.html "Choose your adventure here!")
