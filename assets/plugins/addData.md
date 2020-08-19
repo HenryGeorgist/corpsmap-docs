@@ -5,7 +5,7 @@ With this plugin you can add local files to the Map window. There are currently 
 
 The addData plugin is in the basic-toolbar region of the corpsmap container by default. 
 
-![](media/addData.jpg "Your data here")
+![](addData.jpg "Your data here")
 
 ## Dispatches
 ```
