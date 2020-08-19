@@ -4,7 +4,8 @@ With this plugin you can add local files to the Map window. There are currently 
 - Add local Shape Zip
 
 The addData plugin is in the basic-toolbar region of the corpsmap container by default. 
-![](addData.jpg "Your data here")
+
+![](media/addData.jpg "Your data here")
 
 ## Dispatches
 ```
