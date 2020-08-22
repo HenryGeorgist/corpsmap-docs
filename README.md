@@ -21,4 +21,7 @@ In order to improve flexibility of incorporating the variety of needs in a susta
 
 [Core-Plugins](assets/plugins.html "It is like an extension cord at Clark Griswold's house")
 
+[openlayers-utils](assets/openlayers-utils/layer-utilities.html "Get the most utility out of your layers")
+
+
 
