@@ -19,7 +19,7 @@ In order to improve flexibility of incorporating the variety of needs in a susta
 
 [Getting Started](assets/gettingStarted.html "Let's get started!")
 
-[core-clugins](assets/plugins.html "It is like an extension cord at Clark Griswold's house")
+[core-plugins](assets/plugins.html "It is like an extension cord at Clark Griswold's house")
 
 [openlayers-utils](assets/openlayers-utils/layer-utilities.html "Get the most utility out of your layers")
 
