@@ -75,7 +75,7 @@ import dlButton from './cm3-nsi-download'
 const cm3NsiDownloadPlugin={
     pluginName: 'NSIDownloadPlugin',
     enabled: true,
-    bundle: nsiDlbundle,
+    bundle: nsiDlbundle,//this gives corpsmap access to the store created by our bundle
     components:[{
       component: dlButton,
       region: 'basic-toolbar',
