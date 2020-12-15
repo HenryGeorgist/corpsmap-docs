@@ -21,7 +21,6 @@ In order to improve flexibility of incorporating the variety of needs in a susta
 
 [core-plugins](assets/plugins.html "It is like an extension cord at Clark Griswold's house")
 
+[Developing Custom Plugins](assets/custom_plugins/basic_custom_plugin.html "DIY for @corpsmap")
+
 [openlayers-utils](assets/openlayers-utils/layer-utilities.html "Get the most utility out of your layers")
-
-
-
